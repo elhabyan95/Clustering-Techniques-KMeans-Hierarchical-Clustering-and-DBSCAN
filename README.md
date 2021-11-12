@@ -1,3 +1,3 @@
 # Clustering-Techniques-K-Means-Hierarchical-Clustering-and-DB-SCAN-and-PCA!
-[elbow]
-(https://user-images.githubusercontent.com/28704563/141510531-fab926b2-ca96-4dd2-9b3e-a7497e17060c.PNG)
+
+![elbow](https://user-images.githubusercontent.com/28704563/141510729-d6a4d4f1-6ab6-4407-a651-130842ecb1fa.PNG)
